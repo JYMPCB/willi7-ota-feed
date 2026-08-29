@@ -1,9 +1,9 @@
 {
-  "version": "2.0.2",
-  "build": 20260828,
+  "version": "2.0.3",
+  "build": 20260829,
   "bin_url": "https://JYMPCB.github.io/willi7-ota-feed/ota/firmware.bin",
   "url": "https://JYMPCB.github.io/willi7-ota-feed/ota/firmware.bin",
-  "sha256": "3cc2c2132446c88d2028a037dace9c90fb9185bfce44f182461aec1289ed997b",
-  "size": 2159536,
-  "notes": "Waveshare OTA feed v2.0.2 auto-test"
+  "sha256": "fdadbbeb3adb7502f6f2fa154d1b1a2df6cf166257205693d2e5722fd0154436",
+  "size": 2217008,
+  "notes": "HOME 4 modos, sala competencia, resumen"
 }
