@@ -1,9 +1,9 @@
 {
-  "version": "2.1.4",
-  "build": 20260923,
-  "bin_url": "https://JYMPCB.github.io/willi7-ota-feed/ota/firmware.bin?b=20260923",
-  "url": "https://JYMPCB.github.io/willi7-ota-feed/ota/firmware.bin?b=20260923",
-  "sha256": "4e91904427e5ea474b75ebdcdc39bbbfb57fac302530727bd7316fe581fb24e3",
-  "size": 2330912,
-  "notes": "Willi7 Waveshare 2.1.4"
+  "version": "2.1.5",
+  "build": 20260924,
+  "bin_url": "https://JYMPCB.github.io/willi7-ota-feed/ota/firmware.bin?b=20260924",
+  "url": "https://JYMPCB.github.io/willi7-ota-feed/ota/firmware.bin?b=20260924",
+  "sha256": "6f854a94bb3737c6b63560977f29533b1b619731237db42b97c61608c07f5e5e",
+  "size": 2334320,
+  "notes": "Willi7 Waveshare 2.1.5"
 }
